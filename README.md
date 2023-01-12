@@ -1,1 +1,1 @@
-# Folder
+Projekat sajta za salon Gold Star
