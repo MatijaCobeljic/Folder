@@ -1,0 +1,21 @@
+@use "./node_modules/bootstrap/scss/bootstrap";
+/* Modify the background color */
+.navbar { 
+    background-color: #FFD9BD;
+    border-bottom: 1px solid #D37462;
+}
+.navbar-brand {
+    color:#6B4046;  
+    font-family: 'Audiowide', cursive;
+}
+.nav-item > a {
+    color: #432E30;
+    font-family: 'Azeret Mono', monospace;
+}
+.navbar-nav {
+    justify-content: center;
+    text-align: center;
+}
+.btn {
+    background-color: #6B4046;
+}
