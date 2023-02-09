@@ -11,8 +11,25 @@
 .nav-item > a {
     color: #432E30;
     font-family: 'Azeret Mono', monospace;
+    padding-right: 48px;
+    margin-left: 5px;
+    margin-right: 15px;
 }
 .navbar-nav {
     justify-content: center;
     text-align: center;
+}
+.list-unstyled {
+    margin-top: 16px;
+    margin-left: 550px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    background-color: #6B4046;
+    color: #FAE2AF;
+    border-radius: 5px;
+}
+.btn {
+    font-family: 'Azeret Mono', monospace;
 }
