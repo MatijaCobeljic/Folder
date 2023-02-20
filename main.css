@@ -10886,4 +10886,26 @@ body {
 .adress {
   font-family: "Azeret Mono", monospace;
   color: #432E30;
+}
+
+.first-img {
+  width: 300px;
+  height: 400px;
+  position: absolute;
+  transform: rotate "(30deg)";
+  top: 0;
+}
+
+.second-img {
+  width: 300px;
+  height: 400px;
+}
+
+.third-img {
+  width: 300px;
+  height: 400px;
+}
+
+.container {
+  left: 200px;
 }/*# sourceMappingURL=main.css.map */
