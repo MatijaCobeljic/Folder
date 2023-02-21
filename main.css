@@ -11012,4 +11012,69 @@ body {
 .locations {
   color: #FAE2AF;
   font-family: "Azeret Mono", monospace;
+}
+
+.our-services {
+  font-family: "Audiowide", cursive;
+  color: #D37462;
+  margin-top: 65px;
+}
+
+.services {
+  color: #6B4046;
+  margin-right: 520px;
+  font-family: "Azeret Mono", monospace;
+  margin-top: 30px;
+}
+
+.estimated-time {
+  color: #6B4046;
+  margin-right: 510px;
+  font-family: "Azeret Mono", monospace;
+}
+
+.price {
+  color: #6B4046;
+  font-family: "Azeret Mono", monospace;
+}
+
+.styling {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 528px;
+  font-family: "Azeret Mono", monospace;
+}
+
+.estimated-time2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 530px;
+  font-family: "Azeret Mono", monospace;
+}
+
+.price2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: "Azeret Mono", monospace;
+}
+
+.haircut3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 550px;
+  margin-left: 302px;
+  font-family: "Azeret Mono", monospace;
+}
+
+.estimated-time3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 531px;
+  font-family: "Azeret Mono", monospace;
+}
+
+.price3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: "Azeret Mono", monospace;
 }/*# sourceMappingURL=main.css.map */
