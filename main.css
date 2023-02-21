@@ -10902,6 +10902,7 @@ body {
   height: 494px;
   margin-top: 200px;
   margin-left: 20px;
+  margin-bottom: 100px;
 }
 
 .vector {
@@ -10938,4 +10939,72 @@ body {
 
 .second-section {
   background-color: #432E30 !important;
+}
+
+.about-us {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  margin-left: 5px;
+  font-family: "Audiowide", cursive;
+  color: #C9CBA7;
+  width: 285px;
+  height: 89px;
+}
+
+.about-us-description {
+  color: #FAE2AF;
+  margin-left: 5px;
+  width: 659px;
+  height: 228px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.hair-img {
+  width: 516px;
+  height: 691px;
+}
+
+.satisfied-customers-num {
+  color: #D37462;
+  font-family: "Audiowide", cursive;
+  margin-right: 255px;
+}
+
+.proffesional-haircutters-num {
+  color: #D37462;
+  font-family: "Audiowide", cursive;
+}
+
+.years-of-expirience-num {
+  color: #D37462;
+  font-family: "Audiowide", cursive;
+  margin-right: 275px;
+}
+
+.locations-num {
+  color: #D37462;
+  font-family: "Audiowide", cursive;
+}
+
+.satisfied-customers {
+  color: #FAE2AF;
+  font-family: "Azeret Mono", monospace;
+  margin-right: 90px;
+}
+
+.proffesional-haircutters {
+  color: #FAE2AF;
+  font-family: "Azeret Mono", monospace;
+}
+
+.years-of-expirience {
+  color: #FAE2AF;
+  font-family: "Azeret Mono", monospace;
+  margin-right: 154px;
+}
+
+.locations {
+  color: #FAE2AF;
+  font-family: "Azeret Mono", monospace;
 }/*# sourceMappingURL=main.css.map */
