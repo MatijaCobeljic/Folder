@@ -11066,6 +11066,7 @@ body {
 .estimated-time3 {
   margin-top: 10px;
   margin-bottom: 10px;
+  margin-left: 22px;
   font-family: "Azeret Mono", monospace;
 }
 
@@ -11084,6 +11085,7 @@ body {
 .estimated-time4 {
   margin-top: 10px;
   margin-bottom: 10px;
+  margin-right: 104px;
   font-family: "Azeret Mono", monospace;
 }
 
@@ -11102,6 +11104,7 @@ body {
 .estimated-time5 {
   margin-top: 10px;
   margin-bottom: 10px;
+  margin-right: 81px;
   font-family: "Azeret Mono", monospace;
 }
 
@@ -11120,6 +11123,7 @@ body {
 .estimated-time6 {
   margin-top: 10px;
   margin-bottom: 10px;
+  margin-right: 143px;
   font-family: "Azeret Mono", monospace;
 }
 
@@ -11138,6 +11142,7 @@ body {
 .estimated-time7 {
   margin-top: 10px;
   margin-bottom: 10px;
+  margin-right: 56px;
   font-family: "Azeret Mono", monospace;
 }
 
@@ -11156,6 +11161,7 @@ body {
 .estimated-time8 {
   margin-top: 10px;
   margin-bottom: 10px;
+  margin-right: 187px;
   font-family: "Azeret Mono", monospace;
 }
 
@@ -11174,6 +11180,7 @@ body {
 .estimated-time9 {
   margin-top: 10px;
   margin-bottom: 10px;
+  margin-right: 70px;
   font-family: "Azeret Mono", monospace;
 }
 
@@ -11190,4 +11197,8 @@ body {
   height: 89px;
   margin-left: 302px;
   margin-top: 100px;
+}
+
+.fourth-section {
+  background-color: #C9CBA7;
 }/*# sourceMappingURL=main.css.map */
